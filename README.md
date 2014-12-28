@@ -1,4 +1,4 @@
-gpgwork
+gpgworks
 =======
 
 Work with gpg
